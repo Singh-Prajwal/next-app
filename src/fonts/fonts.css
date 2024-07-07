@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Proxima";
+  src: local("ProximaNova"), url("./ProximaNova.ttf") format("woff");
+  font-weight: bolder;
+  font-style: normal;
+}
+
